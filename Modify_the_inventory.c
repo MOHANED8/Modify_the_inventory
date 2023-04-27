@@ -3,7 +3,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
 #define NAME_LEN 25
 #define MAX_PARTS 100
 
