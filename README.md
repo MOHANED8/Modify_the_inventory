@@ -1,3 +1,4 @@
+#Modify_the_inventory
 This is a C program that maintains an inventory database of parts for a store. The program allows users to insert new parts into the inventory, search for a specific part, update the quantity of a part, and print a listing of all parts in the inventory.
 
 The program uses an array of structures to store information about the parts, with each structure containing the part number, part name, quantity on hand, and price. The maximum number of parts that can be stored is defined as a constant called MAX_PARTS, which is set to 100.
