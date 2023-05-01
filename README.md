@@ -6,10 +6,15 @@ The program uses an array of structures to store information about the parts, wi
 The program starts by prompting the user to enter an operation code, which can be one of the following:
 
 'i': insert a new part into the inventory
+
 's': search for a specific part in the inventory
+
 'u': update the quantity of a specific part in the inventory
+
 'p': print a listing of all parts in the inventory
+
 'q': quit the program
+
 The program uses a switch statement to determine which operation to perform based on the user's input. Each operation is implemented as a separate function.
 
 The insert function prompts the user for information about a new part and then adds it to the inventory if it doesn't already exist and the database is not full.
